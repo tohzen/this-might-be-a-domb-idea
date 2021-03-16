@@ -13,7 +13,7 @@ firstPara.innerHTML= "Lorem ipsum dolor amet viral meh selfies drinking vinegar,
 const list = document.querySelector("#item-13");
 list.style.opacity = .5;
 
-const list2 = document.querySelector("#item-15");
+const list2 = document.querySelector("#item-3");
 list2.innerHTML = "I say, Hi!"
 
 const pic = document.querySelector("img");
@@ -22,7 +22,9 @@ pic.style.height = "300px";
 
 const mypic = document.querySelector("#pic2");
 mypic.src = "quiet.jpg";
-mypic.style.height = "300px"
+mypic.style.height = "300px";
 
 const newItem = document.querySelector("#item-16");
 newItem.innerHTML = "> Won't get fooled again."
+
+
